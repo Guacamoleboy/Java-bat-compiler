@@ -1,4 +1,4 @@
-# Java compiler using a .bat file [WINDOWS]
+# Java compiler using a .bat file
 Simple. Easy. Effective.
 
 Install anywhere..
