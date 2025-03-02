@@ -1,5 +1,13 @@
-# Java-bat-compiler
-## Compiles a .java file from a .bat file by simply dragging it over and dropping it on the .bat file.
+# Java compiler using a .bat file
+Simple. Easy. Effective.
 
-## Made for school projects
-## Author: CPHJL325 // Guacamoleboy
+Install anywhere..
+
+How to:
+
+Simply.. Drag the file on top of the .bat file and it does the job for you!
+
+**Author: Guacamoleboy / CPHJL325**
+
+![Visuals](/photos/photo1.jpg)
+![Visuals](/photos/photo2.jpg)
