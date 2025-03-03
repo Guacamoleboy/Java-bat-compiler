@@ -1,6 +1,6 @@
 @ECHO OFF 
 
-color e
+color 3
 
 ECHO.
 ECHO Compiler By Guacamoleboy
@@ -22,3 +22,5 @@ java %~n1
 pause >nul
 
 ECHO ON
+
+:: Program by Guacamoleboy
